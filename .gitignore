@@ -1,0 +1,8 @@
+#modules and transcompile
+node_modules/
+build/
+
+#environment
+.env
+
+*.log
